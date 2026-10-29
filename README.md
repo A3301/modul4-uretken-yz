@@ -1,6 +1,6 @@
 # Modül 4: Üretken YZ ile Akademik Yazım ve Hasta Eğitimi
 
-**Tarsus Üniversitesi Sağlık Bilimleri Fakültesi · Öğretim Üyelerine Yapay Zekâ Eğitimi** · Eğitmen: Ali AKDAĞLI · 12 saat (4 oturum)
+**Sağlık Bilimleri Fakültesi · Öğretim Elemanları için Yapay Zekâ Eğitimi** · Eğitmen: Ali AKDAĞLI · 12 saat (4 oturum)
 
 Literatür tarama, özetleme, etik çerçevede makale taslağı, hasta bilgilendirme broşürlerini kişiselleştirme ve epikriz/taburculuk özetlerinde YZ asistanlarını güvenle kullanmayı öğreniyoruz.
 
