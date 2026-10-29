@@ -1,0 +1,30 @@
+© Ali AKDAĞLI · Tarsus Üniversitesi SBF · Öğretim Üyelerine YZ Eğitimi
+
+SENTETİK EĞİTİM MATERYALİDİR — GERÇEK HASTAYA AİT DEĞİLDİR
+
+EPİKRİZ / TABURCULUK ÖZETİ
+Servis: İç Hastalıkları
+Hasta: [AD SOYAD], 68 yaş, kadın
+Yatış tarihi: [GG.AA.YYYY]   Taburculuk tarihi: [GG.AA.YYYY]   Protokol no: [XXXXXX]
+
+Başvuru şikâyeti: Son 2 haftadır poliüri, polidipsi, halsizlik ve sol ayak 1. parmak plantar yüzde akıntılı yara.
+
+Özgeçmiş: 14 yıldır Tip 2 DM (oral antidiyabetik ile takipli, uyum düşük), 8 yıldır esansiyel HT, hiperlipidemi. Sigara kullanımı yok.
+
+Fizik muayene: Genel durum orta, bilinç açık, koopere. TA: 152/88 mmHg, nabız: 92/dk, ateş: 37,1 °C. Sol ayak 1. MTP eklem plantar yüzde 1,5x1 cm, Wagner evre 2 ülser; çevresinde hafif eritem; dorsalis pedis nabzı bilateral zayıf palpabl. Monofilament testi bilateral duyu kaybı ile uyumlu.
+
+Laboratuvar: Başvuru kan şekeri 386 mg/dL, HbA1c %10,8, kreatinin 1,1 mg/dL, eGFR 52 mL/dk/1,73m², CRP 34 mg/L, lökosit 11.200/µL. İdrarda keton negatif.
+
+Seyir: Hastaya bazal-bolus insülin rejimi başlandı (insülin glarjin 18 Ü gece 22:00, insülin aspart öğün öncesi 6-6-6 Ü). Metformin 2x1000 mg devam edildi. Yara kültürü sonrası ampirik amoksisilin-klavulanat 2x1 g p.o. başlandı; kültürde MSSA üremesi oldu, tedaviye aynı şekilde devam edildi. Yara bakımı günlük serum fizyolojik ile yapıldı, ortopedik offloading terliği önerildi. Diyetisyen konsültasyonu ile 1600 kcal/gün diyabetik diyet planlandı. Hastaya ve kızına hemşire tarafından insülin enjeksiyon tekniği, KŞ ölçümü ve hipoglisemi belirtileri eğitimi verildi; geri bildirim yöntemi ile kısmen doğru tekrar etti. Takipte açlık KŞ 120-160 mg/dL aralığına geriledi. Genel durumu düzelen hasta önerilerle taburcu edildi.
+
+Taburculuk tanıları: Tip 2 DM, regülasyon bozukluğu; diyabetik ayak ülseri (Wagner 2); esansiyel HT; KBH evre 3a.
+
+Taburculuk ilaçları:
+1. İnsülin glarjin 18 Ü SC, her gece saat 22:00
+2. İnsülin aspart 6 Ü SC, kahvaltı-öğle-akşam yemeğinden hemen önce
+3. Metformin 1000 mg tb, 2x1, tok
+4. Amoksisilin-klavulanat 1 g tb, 2x1, 7 gün daha
+5. Ramipril 5 mg tb, 1x1, sabah
+6. Atorvastatin 20 mg tb, 1x1, akşam
+
+Öneriler: Günde 4 kez parmak ucu KŞ takibi ve kayıt. KŞ <70 mg/dL ise 15 g hızlı etkili karbonhidrat alınması ve 15 dk sonra kontrol. Ayak yarasının günlük pansumanı (aile sağlığı merkezi/evde bakım hemşiresi). Ateş >38 °C, yarada kızarıklık-şişlik-kötü koku artışı, KŞ >300 mg/dL olması halinde acil başvuru. Offloading terliğinin sürekli kullanımı. 1 hafta sonra Endokrinoloji ve Yara Bakım polikliniği kontrolü; 2 hafta sonra HbA1c dışı biyokimya kontrolü.

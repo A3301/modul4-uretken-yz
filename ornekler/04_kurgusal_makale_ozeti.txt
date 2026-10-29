@@ -1,0 +1,15 @@
+© Ali AKDAĞLI · Tarsus Üniversitesi SBF · Öğretim Üyelerine YZ Eğitimi
+
+KURGUSAL EĞİTİM METNİDİR — BÖYLE BİR ÇALIŞMA YAYIMLANMAMIŞTIR. Özetleme alıştırması için yazılmıştır.
+
+Başlık: Tip 2 Diyabetli Bireylerde Hemşire Liderliğinde Mobil Uygulama Destekli Öz Yönetim Eğitiminin Glisemik Kontrol ve Öz Yeterlilik Üzerine Etkisi: Randomize Kontrollü Bir Çalışma
+
+Amaç: Bu çalışmanın amacı, Tip 2 diyabetli bireylerde hemşire liderliğinde yürütülen ve mobil uygulama ile desteklenen öz yönetim eğitiminin HbA1c düzeyi, diyabet öz yeterliliği ve ilaç uyumu üzerine etkisini belirlemektir.
+
+Yöntem: Çalışma, bir eğitim ve araştırma hastanesinin endokrinoloji polikliniğinde, paralel gruplu randomize kontrollü deneysel tasarımla yürütülmüştür. HbA1c düzeyi %7,5 ve üzerinde olan, akıllı telefon kullanabilen 18-70 yaş arası 120 birey bilgisayar destekli blok randomizasyon ile müdahale (n=60) ve kontrol (n=60) gruplarına atanmıştır. Müdahale grubuna 12 hafta boyunca haftalık hemşire görüşmeleri, uygulama üzerinden kan şekeri kaydı, kişiselleştirilmiş hatırlatıcılar ve eğitim videoları sunulmuştur. Kontrol grubu rutin poliklinik bakımını almıştır. Veriler başlangıçta, 12. haftada ve 24. haftada toplanmıştır. Birincil sonuç değişkeni 24. haftadaki HbA1c değişimidir. İkincil sonuçlar Diyabet Öz Yeterlilik Ölçeği puanı ve Morisky ilaç uyum puanıdır.
+
+Bulgular: Çalışmayı 108 katılımcı tamamlamıştır (müdahale n=55, kontrol n=53). Başlangıçta gruplar arasında demografik ve klinik özellikler açısından anlamlı fark yoktur. 24. haftada HbA1c düzeyi müdahale grubunda ortalama 1,1 puan, kontrol grubunda 0,3 puan azalmıştır (grup farkı: −0,8; %95 GA: −1,2 ile −0,4; p<0,001). Diyabet öz yeterlilik puanı müdahale grubunda anlamlı olarak daha yüksek bulunmuştur (p=0,002). İlaç uyumu açısından gruplar arasında anlamlı fark saptanmamıştır (p=0,18). Uygulama kullanım sıklığı ilk 4 haftadan sonra azalmış, katılımcıların %38'i 12. haftadan sonra uygulamayı haftada bir kezden az kullanmıştır.
+
+Sonuç: Hemşire liderliğinde mobil uygulama destekli öz yönetim eğitimi, Tip 2 diyabetli bireylerde HbA1c düzeyini ve öz yeterliliği iyileştirmiştir; ancak ilaç uyumunu değiştirmemiştir. Uygulama kullanımındaki azalma, uzun dönem etkinliğin sürdürülebilirliği açısından dikkate alınmalıdır. Tek merkezli olması ve katılımcıların körlenememesi çalışmanın sınırlılıklarıdır.
+
+Anahtar kelimeler: Tip 2 diabetes mellitus, mobil sağlık, hemşirelik, öz yönetim, HbA1c
