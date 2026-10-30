@@ -4,7 +4,7 @@ KAYNAK AVCILIĞI ALIŞTIRMASI
 
 Senaryo: Bir meslektaşınız sohbet botuna "Yapay zekânın hasta eğitimi ve klinik dokümantasyondaki rolüyle ilgili 5 kaynak ver" diye sormuş ve aşağıdaki listeyi almış. Bu listeyi makalesinde kullanmak üzere.
 
-Göreviniz: Her kaynağı PubMed, Google Scholar veya DOI üzerinden kontrol edin. Her biri için şu üç seçenekten birini işaretleyin:
+Göreviniz: Her kaynağı PubMed, Google Scholar veya DOI üzerinden kontrol edelim. Her biri için şu üç seçenekten birini işaretleyelim:
   (G) Gerçek ve doğru
   (H) Gerçek ama bilgileri hatalı. Hangi bilgi hatalı?
   (U) Uydurma, böyle bir makale yok
