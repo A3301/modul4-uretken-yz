@@ -2,36 +2,26 @@
 
 **Sağlık Bilimleri Fakültesi · Öğretim Elemanları için Yapay Zekâ Eğitimi** · Eğitmen: Ali AKDAĞLI · 12 saat (4 oturum)
 
-Değerli hocalarım, hoş geldiniz.
-
-Bu sayfada Modül 4 için hazırladığımız tüm materyalleri bulacaksınız. Önümüzdeki dört oturumda üretken yapay zekâyı literatür taramasında, akademik yazımda ve hasta eğitiminde güvenle ve etik çerçevede nasıl kullanabileceğimizi birlikte keşfedeceğiz.
-
-Bu araçları çok okumuş ama hiç hasta görmemiş, hevesli bir stajyere benzetebiliriz: hızlı ve yardımsever, ama her cümlesinin son kontrolü bizde. Hazır istemler, örnek metinler ve küçük bir okunabilirlik hesaplayıcısı yolculuğumuzu kolaylaştıracak.
-
-Kendi derslerinizde, makalelerinizde ve hasta broşürlerinizde bu yaklaşımın çok işinize yarayacağına inanıyorum. Görüşmek üzere. — *Ali AKDAĞLI*
-
-Materyaller bilgisayar ve tablette en rahat okunur; bu sayfa telefonda da rahatça açılır. Hiçbir belgeyi yazdırmanıza gerek yok; PDF’leri kendi cihazınızda açmanız yeterli.
-
 Literatür tarama, özetleme, etik çerçevede makale taslağı, hasta bilgilendirme broşürlerini kişiselleştirme ve epikriz/taburculuk özetlerinde YZ asistanlarını güvenle kullanmayı öğreniyoruz.
 
 ## En kolay kullanım
-- **Web sayfası (telefon dahil):** `https://A3301.github.io/modul4-uretken-yz/` adresini açalım. Ana ekrana ekleyerek uygulama gibi kullanabilirsiniz.
-- **Hepsini indirmek:** Bu sayfada yeşil **Code** düğmesi → **Download ZIP**. ZIP'i açalım ve `index.html` dosyasına çift tıklayalım. Kurulum gerekmez.
+- **Web sayfası (telefon dahil):** `https://A3301.github.io/modul4-uretken-yz/` adresinden erişilebilir. Sayfa, ana ekrana eklenerek uygulama gibi kullanılabilir.
+- **Hepsini indirmek:** Bu sayfada yeşil **Code** düğmesi → **Download ZIP**. ZIP dosyası açıldıktan sonra `index.html` dosyası çift tıklanarak görüntülenir. Kurulum gerekmez.
 
 ## Kursa gelmeden önce
 - [ ] Bilgisayar, tablet ya da telefon ve internet bağlantısı; uygulamalar tarayıcıda çalışır. Excel hesaplayıcısı için bilgisayar daha rahattır, tablet ve telefonda ücretsiz Excel uygulaması yeterlidir.
-- [ ] En az bir sohbet asistanında ücretsiz hesap: ChatGPT, Gemini, Claude veya Copilot (kurumsal e-postanızla açabilirsiniz).
+- [ ] En az bir sohbet asistanında ücretsiz hesap: ChatGPT, Gemini, Claude veya Copilot (kurumsal e-posta ile açılabilir).
 - [ ] NotebookLM için bir Google hesabı (notebooklm.google.com).
 - [ ] Okunabilirlik hesaplayıcısı için Excel (veya Excel uygulaması).
-- [ ] İsterseniz kendi alanınızdan açık erişimli bir makalenin PDF’i ve kullandığınız bir hasta broşürünün dijital kopyası (hasta bilgisi içermesin).
-- [ ] Gerçek hasta verisi yerine eğitim için hazırlanmış sentetik metinleri kullanmanızı öneririz; böylece KVKK açısından içimiz rahat olur.
+- [ ] İsteğe bağlı: ilgili alandan açık erişimli bir makalenin PDF’i ve kullanılan bir hasta broşürünün dijital kopyası (hasta bilgisi içermemelidir).
+- [ ] KVKK uyumu için gerçek hasta verisi yerine eğitim amacıyla hazırlanmış sentetik metinlerin kullanılması önerilir.
 
 ## Hesap açma adım adım
-1. Bir sohbet asistanı seçelim (ChatGPT, Gemini, Claude veya Copilot) ve sitesinde "Kaydol / Sign up" ile ücretsiz hesap açalım.
-2. Deneme: "Diyabetik ayak bakımını 68 yaşında, ilkokul mezunu bir hasta için 5 kısa cümleyle anlat." yazalım ve yanıtı okuyalım.
-3. notebooklm.google.com adresine Google hesabınızla girelim, "Yeni not defteri" oluşturup bir PDF yükleyelim.
-4. Bu sayfadan Okunabilirlik Hesaplayıcısını indirelim, B4 hücresine bir metin yapıştıralım ve puanı görelim.
-5. Menü adları araçlara göre değişebilir; takılırsanız kursta birlikte bakacağız.
+1. Bir sohbet asistanı (ChatGPT, Gemini, Claude veya Copilot) seçilir ve sitesindeki "Kaydol / Sign up" bağlantısıyla ücretsiz hesap açılır.
+2. Deneme: "Diyabetik ayak bakımını 68 yaşında, ilkokul mezunu bir hasta için 5 kısa cümleyle anlat." istemi yazılır ve yanıt incelenir.
+3. notebooklm.google.com adresine Google hesabıyla giriş yapılır; "Yeni not defteri" oluşturularak bir PDF yüklenir.
+4. Bu sayfadan Okunabilirlik Hesaplayıcısı indirilir; B4 hücresine bir metin yapıştırılarak puan görüntülenir.
+5. Menü adları araçlara ve sürümlere göre farklılık gösterebilir; sorunlar kurs sırasında giderilecektir.
 
 ## İçerik
 | Dosya | Açıklama |
@@ -39,7 +29,7 @@ Literatür tarama, özetleme, etik çerçevede makale taslağı, hasta bilgilend
 | `index.html` | Tüm materyallere tek sayfadan erişim |
 | `belgeler/Modul4_Ders_Notu.pdf` | Ders notu – Kısaltma kartları, tıbbi terim kutuları, uygulamalar ve sözlükler. |
 | `belgeler/Modul4_Katilimci_Sunumu.pdf` | Sunum – Derste kullanılan slaytlar. |
-| `belgeler/Modul4_Istem_Kutuphanesi.pdf` | İstem kütüphanesi – 62 hazır istem. PDF'ten seçip kopyalayabilirsiniz. |
+| `belgeler/Modul4_Istem_Kutuphanesi.pdf` | İstem kütüphanesi – 62 hazır istem. İstemler PDF'ten seçilerek kopyalanabilir. |
 | `belgeler/Modul4_Okunabilirlik_Hesaplayici.xlsx` | Okunabilirlik hesaplayıcısı – Metni yapıştıralım, Türkçe Ateşman okunabilirlik puanı kendiliğinden hesaplansın. Telefonda Excel uygulamasıyla da açılır. |
 | `ornekler/01_sentetik_epikriz.txt` | Sentetik epikriz (gerçek hasta değildir) |
 | `ornekler/02_brosur_akademik_dil.txt` | Diyabetik ayak broşürü · akademik dil |
