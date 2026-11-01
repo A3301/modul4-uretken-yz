@@ -6,7 +6,6 @@ Literatür tarama, özetleme, etik çerçevede makale taslağı, hasta bilgilend
 
 ## En kolay kullanım
 - **Web sayfası (telefon dahil):** `https://A3301.github.io/modul4-uretken-yz/` adresinden erişilebilir. Sayfa, ana ekrana eklenerek uygulama gibi kullanılabilir.
-- **Hepsini indirmek:** Bu sayfada yeşil **Code** düğmesi → **Download ZIP**. ZIP dosyası açıldıktan sonra `index.html` dosyası çift tıklanarak görüntülenir. Kurulum gerekmez.
 
 ## Kursa gelmeden önce
 - [ ] Bilgisayar, tablet ya da telefon ve internet bağlantısı; uygulamalar tarayıcıda çalışır. Excel hesaplayıcısı için bilgisayar daha rahattır, tablet ve telefonda ücretsiz Excel uygulaması yeterlidir.
